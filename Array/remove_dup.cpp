@@ -3,6 +3,11 @@
     be kept the same. Then return the number of unique elements in nums.
 */
 
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {

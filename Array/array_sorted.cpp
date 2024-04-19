@@ -3,6 +3,11 @@
     Your task is to return 1 if the given array is sorted. Else, return 0.
 */
 
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
 // Function to check the array is sorted or not
 int isSorted(int n, vector<int> a) {
     // Write your code here.
